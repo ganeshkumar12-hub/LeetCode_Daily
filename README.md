@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0605-can-place-flowers) |
+## Database
+|  |
+| ------- |
+| [1070-product-sales-analysis-iii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1070-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
