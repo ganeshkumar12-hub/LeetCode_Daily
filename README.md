@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0180-consecutive-numbers) |
 | [0626-exchange-seats](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0626-exchange-seats) |
 | [1070-product-sales-analysis-iii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1070-product-sales-analysis-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
