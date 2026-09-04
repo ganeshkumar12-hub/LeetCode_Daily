@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0605-can-place-flowers) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0605-can-place-flowers) |
 ## Database
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0345-reverse-vowels-of-a-string) |
