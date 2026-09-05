@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0180-consecutive-numbers) |
 | [0577-employee-bonus](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0584-find-customer-referee) |
