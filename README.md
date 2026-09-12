@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1732-find-the-highest-altitude) |
 ## Longest Increasing Subsequence
 |  |
