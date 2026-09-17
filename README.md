@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1732-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0334-increasing-triplet-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
