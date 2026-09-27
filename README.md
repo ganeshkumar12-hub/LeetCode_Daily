@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0746-min-cost-climbing-stairs) |
 | [1207-unique-number-of-occurrences](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1732-find-the-highest-altitude) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0746-min-cost-climbing-stairs) |
 ## Prefix Sum
 |  |
 | ------- |
