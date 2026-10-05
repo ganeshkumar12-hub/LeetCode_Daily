@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0334-increasing-triplet-subsequence) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0229-majority-element-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sliding Window
@@ -124,12 +126,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
