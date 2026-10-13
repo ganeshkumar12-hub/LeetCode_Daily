@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0334-increasing-triplet-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0643-maximum-average-subarray-i) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
 | ------- |
