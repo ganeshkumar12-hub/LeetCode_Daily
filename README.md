@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1732-find-the-highest-altitude) |
+| [1901-find-a-peak-element-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1901-find-a-peak-element-ii) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Greedy
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0540-single-element-in-a-sorted-array) |
+| [1901-find-a-peak-element-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -197,4 +199,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
