@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1207-unique-number-of-occurrences) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1732-find-the-highest-altitude) |
 | [1901-find-a-peak-element-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1901-find-a-peak-element-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1732-find-the-highest-altitude) |
 ## Longest Increasing Subsequence
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
