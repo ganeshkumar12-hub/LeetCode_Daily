@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-daily-leads-and-partners](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1873-calculate-special-bonus) |
+| [1890-the-latest-login-in-2020](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1907-count-salary-categories) |
 ## Two Pointers
 |  |
