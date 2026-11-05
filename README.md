@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-the-latest-login-in-2020](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1907-count-salary-categories) |
 | [3436-find-valid-emails](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/3436-find-valid-emails) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Two Pointers
 |  |
 | ------- |
