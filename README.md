@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0152-maximum-product-subarray) |
@@ -218,10 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 ## Union-Find
 |  |
 | ------- |
@@ -231,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1901-find-a-peak-element-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
