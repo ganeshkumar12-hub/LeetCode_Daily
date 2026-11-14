@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0334-increasing-triplet-subsequence) |
+| [0496-next-greater-element-i](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0605-can-place-flowers) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -223,11 +225,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 ## Union-Find
 |  |
 | ------- |
