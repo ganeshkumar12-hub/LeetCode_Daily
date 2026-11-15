@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0443-string-compression) |
+| [0686-repeated-string-match](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0686-repeated-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
@@ -254,4 +255,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0234-palindrome-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
