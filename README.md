@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0162-find-peak-element) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0014-longest-common-prefix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
