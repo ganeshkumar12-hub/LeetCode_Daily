@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0049-group-anagrams) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1901-find-a-peak-element-ii) |
 ## Range Minimum/Maximum Query
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0051-n-queens) |
 ## Heap (Priority Queue)
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0051-n-queens) |
 ## Breadth-First Search
 |  |
@@ -393,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0127-word-ladder) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
