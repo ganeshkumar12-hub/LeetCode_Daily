@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0069-sqrtx) |
@@ -272,12 +273,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0234-palindrome-linked-list) |
 ## String Matching
