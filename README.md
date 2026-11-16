@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0162-find-peak-element) |
@@ -318,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
