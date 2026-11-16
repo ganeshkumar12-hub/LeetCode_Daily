@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -233,11 +236,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -346,4 +351,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0039-combination-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
