@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0065-valid-number](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0424-longest-repeating-character-replacement) |
@@ -262,20 +263,35 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0686-repeated-string-match) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
