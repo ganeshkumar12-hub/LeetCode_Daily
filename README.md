@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0065-valid-number) |
+| [0076-minimum-window-substring](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0214-shortest-palindrome) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0169-majority-element) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1004-max-consecutive-ones-iii) |
