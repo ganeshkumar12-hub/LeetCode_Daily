@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0605-can-place-flowers) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Database
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0686-repeated-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/1768-merge-strings-alternately) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -408,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0037-sudoku-solver) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
