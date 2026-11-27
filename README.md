@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0443-string-compression) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0560-subarray-sum-equals-k) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ganeshkumar12-hub/LeetCode_Daily/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
